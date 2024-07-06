@@ -25,7 +25,7 @@ StrongSister is an application that provides quick access to essential services 
 
 1. **Clone the Repository:**
    ```bash
-   git clone 
+   git clone https://github.com/Vicia0/StrongSister_emergencies-.git
    cd StrongSister
    ```
 
