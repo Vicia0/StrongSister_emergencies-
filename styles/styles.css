@@ -9,19 +9,10 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #28314e;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 6px;
-    height: 100%;
-    width: inherit;
 }
 
 .inner {
-    background-color: #28314e;
+    background-color:#28314e;
     display: flex;
     flex-direction: column;
     justify-content: center;
